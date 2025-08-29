@@ -22,7 +22,7 @@
 2. Which features correlate most with retention?
 3. Which customer segments (country, channel, plan) are most at risk of churn?
 
-## Key Metrics to Build
+## Key Metrics
 
 1. MRR = sum of active monthly fees in each month.
 2. Churn Rate = canceled subscriptions ÷ active subscriptions.
