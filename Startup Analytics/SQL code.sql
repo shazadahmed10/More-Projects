@@ -22,6 +22,7 @@ Do engaged users (more logins/feature clicks) churn less?
 Which customer segments (country, channel, plan) are most at risk of churn?
 */
 
+--STEP 2: Start manipulations. Create a merged dataset for custom stuff in PowerBI. Create KPI views here for specific KPIs\
 
 --MERGE users and subscriptions together
 CREATE TABLE Merged AS
