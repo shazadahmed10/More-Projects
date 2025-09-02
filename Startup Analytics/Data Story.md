@@ -37,4 +37,23 @@ This SaaS company operates on a subscription model with monthly recurring revenu
    - Added slicers for slicing/segmenting data
 
 3. Analysis & Storytelling
-   - Interpreted results to identify risks, opportunities and areas for follow-up deep dives. 
+   - Interpreted results to identify risks, opportunities and areas for follow-up deep dives.
+  
+## Findings/Insights
+1. Revenue Growth is positive overall, but seasonal pdrop in Q2 signals potential risk.
+2. Churn is decreasing and is concentrated in low-engagement cohorts (<50 clicks/month).
+3. Engagement is stronger with Feature A than Feature B, suggesting a need for RCA
+4. Most users in US, with smaller base in Asia and Latin America. Need for learning more about foreign markets
+
+## Next Steps/Deep Dives
+1. Segment the data by geography, engagement cohorts and plan types for more insight
+2. Look at lifetime value (LTV) = average monthly revenue per user × average lifespan (months)
+3. Is churn happening in certain segments over others?
+
+## Recommendations
+✅ Commence deeper dive analyses with specific questions in mind.
+✅ Either drop feature B or enhance it with lessons learned from Feature A engagement success. 
+✅ Mitigate seasonal Q2 churn spike with retention promos or product enhancements.
+
+## Impact
+Reducing churn by a few % points can increase revenue by thousands of $. 
