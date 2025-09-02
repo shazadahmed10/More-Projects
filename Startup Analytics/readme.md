@@ -3,7 +3,7 @@
 ## Purpose: Showcasing analytics that may be examined in a startup company
 ## Process: Import and manipulate in SQL lite (silver dataset), then create visuals in PowerBI 
 
-## Business Questions to Answer
+## Business Questions to Potentially Explore:
 **Growth & Acquisition**
 
 1. How many new users are signing up each month?
@@ -25,7 +25,5 @@
 ## Key Metrics
 
 1. MRR = sum of active monthly fees in each month.
-2. Churn Rate = canceled subscriptions ÷ active subscriptions.
-3. LTV (simplified) = average monthly revenue per user × average lifespan (months).
-4. CAC Efficiency (if you want a stretch goal): cost per acquired user by channel (assume paid ads cost X).
-5. Engagement Metrics: avg logins/feature clicks per user per plan type.
+2. Churn Statistics = canceled subscriptions vs. active subscriptions 
+3. Engagement Metrics: avg logins/feature clicks per user per plan type.
