@@ -1,7 +1,7 @@
 # Startup Analytics 
 
 ## Purpose: Showcasing analytics that may be examined in a startup company
-## Process: Import and manipulate in SQL lite (silver dataset), then create visuals in PowerBI 
+## Process: Import and manipulate in SQL lite (silver dataset), then create visuals in PowerBI. Insights and recommendations here in GitHub
 
 ## Business Questions to Potentially Explore:
 **Growth & Acquisition**
