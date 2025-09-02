@@ -25,5 +25,6 @@
 ## Key Metrics
 
 1. MRR = sum of active monthly fees in each month.
-2. Churn Statistics = canceled subscriptions vs. active subscriptions 
-3. Engagement Metrics: avg logins/feature clicks per user per plan type.
+2. Total Revenue = total revenue gained in a time period from all users
+3. Churn Statistics = canceled subscriptions vs. active subscriptions 
+4. Engagement Metrics: avg logins/feature clicks per user per plan type.
