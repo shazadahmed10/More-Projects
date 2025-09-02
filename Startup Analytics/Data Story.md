@@ -51,9 +51,9 @@ This SaaS company operates on a subscription model with monthly recurring revenu
 3. Is churn happening in certain segments over others?
 
 ## Recommendations
-✅ Commence deeper dive analyses with specific questions in mind.
-✅ Either drop feature B or enhance it with lessons learned from Feature A engagement success. 
-✅ Mitigate seasonal Q2 churn spike with retention promos or product enhancements.
+1. Commence deeper dive analyses with specific questions in mind.
+2. Either drop feature B or enhance it with lessons learned from Feature A engagement success. 
+3. Mitigate seasonal Q2 churn spike with retention promos or product enhancements.
 
 ## Impact
 Reducing churn by a few % points can increase revenue by thousands of $. 
