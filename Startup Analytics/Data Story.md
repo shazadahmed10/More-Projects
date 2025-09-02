@@ -1,5 +1,5 @@
 
-# 📊 Data Story: SaaS Subscription Analytics
+# 📊 Data Story: 'Startup X' Subscription Analytics
 
 ## Business Context
 
