@@ -55,8 +55,10 @@ This mid-size healthcare company wants to analyze data from their first 50 membe
    - Provider experience: There is no strong correlation between years of experience and patient age or prescription cost — indicating prescribing behavior may be more influenced by specialty and patient mix than tenure.
   
 4. Drug Usage Insights
-   - test
-   - test
+   - Metformin is the most commonly prescribed drug and albuterol is least commonly prescribed. The total costs follow the same pattern. 
+   - Women are prescrbied to more than men for all drugs. 
+   - For the top 3 most prescribed drugs, there is seasonality to when they are prescribed. Higher claims in January and June, lowest in March and December. Same pattern for all three drugs.
+   - Pennsylvania's most common drugs prescribed follows a completely different profile than the other states.  
 
 
 
