@@ -35,20 +35,41 @@ This mid-size healthcare company wants to analyze data from their first 50 membe
    - Interpreted results to identify risks, opportunities and areas for follow-up deep dives.
   
 ## Findings/Insights
-1. 
-2. 
-3. 
+1. Overall Trends (Summary Page)
+   - Total drug spend for the sample population reached $76,689 over 12 months.
+   - Average Rx cost is $154, with members averaging $1,534/year in prescription spend.
+   - Monthly trend analysis shows costs and claim volume remain fairly stable, though spikes occur in Sep 2024 and Mar 2025, which may indicate seasonal demand (e.g., flu season, chronic medication renewals).
+   - Top drugs prescribed include Metformin, Amoxicillin, and Lisinopril, suggesting high prevalence of diabetes, infections, and hypertension in the population.
+   - State-level differences: California and Pennsylvania show higher average Rx costs, while Ohio and Texas show lower utilization but similar costs, indicating potential inefficiencies.
+
+2. Member Insights
+   - High-cost members: A small number of members (top 10) drive disproportionately higher spend ($2–3K each vs. ~$1.5K average).
+   - Plan types: Members in POS plans drive the most spend ($35K), followed by HMO and PPO. This suggests that plan design (out-of-network access in POS) may contribute to higher overall costs.
+   - Age vs. spend: There is a positive correlation between age and Rx spend, but younger members still show some high-cost outliers (possibly due to chronic conditions requiring expensive medications).
+   - Medication utilization: The average prescription contains 58 pills, but ranges widely — suggesting variation in therapy type (short-term antibiotics vs. long-term chronic medications).
+
+3. Provider Insights
+   - Cardiology and Pulmonology providers prescribe at higher average Rx costs ($180–225), reflecting treatment for complex chronic diseases (e.g., heart failure, COPD).
+   - Primary Care providers show lower average costs but serve older patients, reinforcing their role in managing chronic conditions more cost-effectively.
+   - Variability in prescribing: Some providers prescribe significantly more pills per prescription (60–70 vs. average 55), raising questions about dosing consistency and adherence strategies.
+   - Provider experience: There is no strong correlation between years of experience and patient age or prescription cost — indicating prescribing behavior may be more influenced by specialty and patient mix than tenure.
+  
+4. Drug Usage Insights
+   - test
+   - test
 
 
-## Next Steps/Deep Dives
-1. Segment the data by geography, engagement cohorts and plan types for more insight
-2. 
-3. 
 
 ## Recommendations
-1. Commence deeper dive analyses with specific questions in mind.
-2.  
-3. 
-
-## Impact
+1. Targeted Care Management
+   - Focus interventions on the top-spend members. Case management or pharmacy outreach for adherence support could reduce avoidable costs.
+3. Plan Design Review
+   - Investigate why POS plans incur higher costs. Consider incentivizing HMO enrollment or adjusting network design to control spend.
+3. Provider Engagement
+   - Share prescribing benchmarks with Cardiology and Pulmonology providers to encourage cost-effective prescribing (e.g., use of generics where appropriate).
+   - Provide feedback on pill quantity variation to reduce unnecessary variation in prescribing patterns.
+4. Geographic Focus
+   - Conduct deeper analysis in California and Pennsylvania, where average drug costs are highest. Explore whether formulary differences, pharmacy pricing, or member demographics are driving spend.
+6. Preventive Focus
+   - Since diabetes and hypertension drugs dominate utilization, invest in preventive health programs (nutrition, lifestyle management) to reduce long-term prescription dependency and costs.
 
